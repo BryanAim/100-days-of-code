@@ -21,9 +21,21 @@
 
 ### Day 1: May 1, Friday
 
-**Today's Progress**: I've started on the Web Development 101 course on the Odin Project.
+**Today's Progress**: I've started on the Web Development 101 course on the [Odin Project]((https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav#null).
 
 **Thoughts** I've had quite a good refresher on the basics of HTML & CSS. Had a recap on form input elements, and centering content with CSS while recreating the Google Homepage.
 
 **Link(s) to work**
-1. [Google Homepage](https://github.com/BryanAim/google-homepage)
+1. [Google Homepage](https://isalebryan.me/google-homepage)
+
+
+### Day 2: May 2, Saturday
+
+**Today's Progress**: Continuing on the Web Development 101 course on the [Odin Project]((https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav#null).
+
+**Made a Rock Paper Scissors game using JavaScript**
+
+**Thoughts** Took a while to get into the switch statements. A good refresher on variables, numbers, strings, conditionals and loops. Definitely need to do more on functions.
+
+**Link(s) to work**
+To be updated soon, it was just a console app
