@@ -39,3 +39,27 @@
 
 **Link(s) to work**
 To be updated soon, it was just a console app
+
+### Day 3: May 3, Sunday
+
+**Today's Progress**: Continuing with the Web Development course [Odin Project]((https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav#null).
+
+**Developed a small madLibs game with ui**
+
+**Thoughts**  Had some difficulty keeping up with the functions, to update the RPS game. Had to switch course and Did some DOM manipulation exercises and finally made a ui madlibs game. Need more JS practice
+
+**Link(s) to work**
+To be updated
+<!-- 1. [Google Homepage](https://isalebryan.me/google-homepage) -->
+
+### Day 4: May 4, Monday
+
+**Today's Progress**: Started the HTML CSS path course on the [Odin Project]((https://www.theodinproject.com/courses/web-development-101/lessons/html-css?ref=lnav#null).
+Learnt and Practiced embedding of videos and images, css grid(seems really awesome IMO)
+
+**Started to build a Youtube Player page clone**
+
+**Thoughts** First time actually using the css grid, quite powerful. Havent really got a good grip on it, but will definately practice more.
+
+**Link(s) to work**
+To be updated soon after completion
