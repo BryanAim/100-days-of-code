@@ -63,3 +63,21 @@ Learnt and Practiced embedding of videos and images, css grid(seems really aweso
 
 **Link(s) to work**
 To be updated soon after completion
+
+### Day 5: May 5, Tuesday
+
+**Today's Progress**: Did the HTML/CSS path of Responsive Web design  challenges on FreeCodeCamp. Finished on the HTML bit. cant wait to dive into the css path!
+
+
+**Thoughts** Been good refreshing on the HTML bit and semantic tags. finally able to finish the challenges, feels great!
+
+<!-- **Link(s) to work**
+To be updated soon after completion -->
+
+### Day 6: May 6, Wednesday
+
+**Today's Progress**: Did the HTML/CSS path of Responsive Web design  challenges on FreeCodeCamp.
+Finished the CSS path as planned. next up Responsive Web
+
+
+**Thoughts** Reminded of inline css, selectors, specificity, CSS variables, the box model.
