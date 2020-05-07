@@ -81,3 +81,13 @@ Finished the CSS path as planned. next up Responsive Web
 
 
 **Thoughts** Reminded of inline css, selectors, specificity, CSS variables, the box model.
+
+
+### Day 7: May 7, Thursday
+
+**Today's Progress**: Still on the
+Responsive Web Certification part on FreeCodeCamp. Completed the applied Visual Design path
+
+
+**Thoughts** Really fun learning CSS. I got to understand the HSL colors and how they work, positioning of elements, the transform property, colors and gradients, ::before & ::after pseudo-elements, and CSS animations with @keyframes ! Need more practice on this.
+Happy to have made it through the week.
