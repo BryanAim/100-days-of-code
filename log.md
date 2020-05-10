@@ -101,3 +101,21 @@ Responsive Web Design Certification path on FreeCodeCamp. Completed the Applied 
 
 **Thoughts** Got to understand some Accessibility HTML elements such as figure, figcaption, label, fieldset, and date.
 Also learnt about Accessibility attributes like, acceesskey, tabindex and datetime
+
+### Day 9: May 9, Saturday
+
+**Today's Progress**: Went through CSS flexbox's path on FreecodeCamp's Responsive Web Design Certification Challenges.
+
+**Thoughts** Learned flex properties, media queries, responsive images and typography and flexbox properties.
+
+
+
+### Day 10: May 10, Sunday
+
+**Today's Progress**: Finished the Responsive Web Design Certification Challenges.
+Started on the Projects section and completed the first Tribute Page project for Steve Jobs
+
+**Thoughts** CSS grid has been amazing to learn, of course still have to do more practice. Feels great completing a challenge. I feel awesome!
+
+**Link(s) to work**
+1. [Google Homepage](https://isalebryan.me/steve-jobs-tribute-page)
