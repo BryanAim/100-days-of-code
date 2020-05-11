@@ -119,3 +119,12 @@ Started on the Projects section and completed the first Tribute Page project for
 
 **Link(s) to work**
 1. [Google Homepage](https://isalebryan.me/steve-jobs-tribute-page)
+
+### Day 11: May 11, Monday
+
+**Today's Progress**: Completed the second project 'Survey Form' on the Responsive Web Design Certification.
+
+**Thoughts** Feeling superb for actually completing things, which i have been very poor on.
+
+**Link(s) to work**
+1. [Google Homepage](https://isalebryan.me/survey-form)
