@@ -118,7 +118,7 @@ Started on the Projects section and completed the first Tribute Page project for
 **Thoughts** CSS grid has been amazing to learn, of course still have to do more practice. Feels great completing a challenge. I feel awesome!
 
 **Link(s) to work**
-1. [Google Homepage](https://isalebryan.me/steve-jobs-tribute-page)
+1. [Steve Jobs Tribute](https://isalebryan.me/steve-jobs-tribute-page)
 
 ### Day 11: May 11, Monday
 
@@ -127,4 +127,13 @@ Started on the Projects section and completed the first Tribute Page project for
 **Thoughts** Feeling superb for actually completing things, which i have been very poor on.
 
 **Link(s) to work**
-1. [Google Homepage](https://isalebryan.me/survey-form)
+1. [Survey Form](https://isalebryan.me/survey-form)
+
+### Day 12: May 12, Tuesday
+
+**Today's Progress**: Completed the third project 'Product Landing Page' on the Responsive Web Design Certification.
+
+**Thoughts** Lets keep pushing
+
+**Link(s) to work**
+1. [Product Landing Page](https://isalebryan.me/product-landing-page)
