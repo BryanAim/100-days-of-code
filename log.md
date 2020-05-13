@@ -137,3 +137,12 @@ Started on the Projects section and completed the first Tribute Page project for
 
 **Link(s) to work**
 1. [Product Landing Page](https://isalebryan.me/product-landing-page)
+
+### Day 13: May 13, Wednesday
+
+**Today's Progress**: Completed the third project 'Technical Documentation Page' on the Responsive Web Design Certification.
+
+**Thoughts** Need to look more into CSS positioning.
+
+**Link(s) to work**
+1. [Technical Documentation Page](https://isalebryan.me/technical-documentation-page)
