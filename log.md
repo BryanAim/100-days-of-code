@@ -146,3 +146,12 @@ Started on the Projects section and completed the first Tribute Page project for
 
 **Link(s) to work**
 1. [Technical Documentation Page](https://isalebryan.me/technical-documentation-page)
+
+### Day 14: May 14, Thursday
+
+**Today's Progress**: Completed the 4th project 'Personal Portfolio' on the Responsive Web Design Certification.
+
+**Thoughts** CSS grid and Flexbox really messed me up
+
+**Link(s) to work**
+1. [Personal Portfolio Page](https://isalebryan.me/personal-portfolio)
