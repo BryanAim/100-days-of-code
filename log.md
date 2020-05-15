@@ -155,3 +155,10 @@ Started on the Projects section and completed the first Tribute Page project for
 
 **Link(s) to work**
 1. [Personal Portfolio Page](https://isalebryan.me/personal-portfolio)
+
+
+### Day 15: May 15, Friday
+
+**Today's Progress**: Started on Basic JavaScript track of the Javascript and algorithms track
+
+**Thoughts** I need more understanding of JavaScript structured questions
