@@ -162,3 +162,9 @@ Started on the Projects section and completed the first Tribute Page project for
 **Today's Progress**: Started on Basic JavaScript track of the Javascript and algorithms track
 
 **Thoughts** I need more understanding of JavaScript structured questions
+
+### Day 16: May 16, Saturday
+
+**Today's Progress**: Continues on Basic JavaScript track of the Javascript and algorithms track
+
+**Thoughts** Have troubles understanding some basic things. More Prectice buddy!
