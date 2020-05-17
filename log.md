@@ -168,3 +168,10 @@ Started on the Projects section and completed the first Tribute Page project for
 **Today's Progress**: Continues on Basic JavaScript track of the Javascript and algorithms track
 
 **Thoughts** Have troubles understanding some basic things. More Prectice buddy!
+
+### Day 16: May 16, Saturday
+
+**Today's Progress**: Continues on Basic JavaScript track of the Javascript and algorithms track
+
+**Thoughts** went over some coding problems and was able to solve some small function exercises, isPalindrome(), reverseString() and capitalizeFirstLetter()
+small steps make it worthwhile.
