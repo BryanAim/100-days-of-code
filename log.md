@@ -181,3 +181,9 @@ small steps make it worthwhile.
 **Today's Progress**:Finished Basic JavaScript track of the Javascript and algorithms track
 
 **Thoughts** went over some coding problems at javascriptinfo website for practice. also re did some of yesterdays function exercises
+
+### Day 19: May 19, Tuesday
+
+**Today's Progress**:Started and completed the ES6 JavaScript path.
+
+**Thoughts** More exercises on rest params, destructuring and spread operators.
