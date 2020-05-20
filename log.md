@@ -187,3 +187,9 @@ small steps make it worthwhile.
 **Today's Progress**:Started and completed the ES6 JavaScript path.
 
 **Thoughts** More exercises on rest params, destructuring and spread operators.
+
+### Day 20: May 20, Wednesday
+
+**Today's Progress**:Started and completed the Regex path.
+
+**Thoughts** These things aint as easy man hah
