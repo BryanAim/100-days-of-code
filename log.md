@@ -193,3 +193,9 @@ small steps make it worthwhile.
 **Today's Progress**:Started and completed the Regex path.
 
 **Thoughts** These things aint as easy man hah
+
+### Day 21: May 21, Thursday
+
+**Today's Progress**:Started and completed the Debugging path.
+
+**Thoughts** finishing stuff feels amazing
