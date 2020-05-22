@@ -199,3 +199,10 @@ small steps make it worthwhile.
 **Today's Progress**:Started and completed the Debugging path.
 
 **Thoughts** finishing stuff feels amazing
+
+### Day 22: May 22, Friday
+
+**Today's Progress** :Went over the Basic Data Structures
+ . Learnt how to add, remove, copy, iterate & check elements in Arrays. Also learnt adding, modifying, deleting, and checking properties on Objects.
+
+**Thoughts** more practice Aim!
