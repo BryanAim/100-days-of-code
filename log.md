@@ -206,3 +206,9 @@ small steps make it worthwhile.
  . Learnt how to add, remove, copy, iterate & check elements in Arrays. Also learnt adding, modifying, deleting, and checking properties on Objects.
 
 **Thoughts** more practice Aim!
+
+### Day 23: May 23, Saturday
+
+**Today's Progress** Started on the Basic Algorithm Scripting challenges. quite challenging
+
+**Thoughts** Hopefully with more practice ill be able to improve on my problem solving skills.
