@@ -212,3 +212,9 @@ small steps make it worthwhile.
 **Today's Progress** Started on the Basic Algorithm Scripting challenges. quite challenging
 
 **Thoughts** Hopefully with more practice ill be able to improve on my problem solving skills.
+
+### Day 24: May 24, Sunday
+
+**Today's Progress** Finished the Basic Algorithm Scripting challenges phew!. quite challenging
+
+**Thoughts** MORE PRACTICE required
