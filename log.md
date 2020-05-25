@@ -218,3 +218,9 @@ small steps make it worthwhile.
 **Today's Progress** Finished the Basic Algorithm Scripting challenges phew!. quite challenging
 
 **Thoughts** MORE PRACTICE required
+
+### Day 25: May 25, Monday
+
+**Today's Progress** Started and Finished the Object Oriented Programming challenges. were quite okay
+
+**Thoughts** MORE PRACTICE required, plus look at IIFE's
