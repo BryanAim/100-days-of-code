@@ -224,3 +224,11 @@ small steps make it worthwhile.
 **Today's Progress** Started and Finished the Object Oriented Programming challenges. were quite okay
 
 **Thoughts** MORE PRACTICE required, plus look at IIFE's
+
+
+### Day 26: May 26, Tuesday
+
+**Today's Progress** Started and Functional Programming challenges. were quite okay.
+
+**Thoughts** 
+Enjoyed learning the using the approach, array methods + higher order functions & currying
