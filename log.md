@@ -230,5 +230,11 @@ small steps make it worthwhile.
 
 **Today's Progress** Started and Functional Programming challenges. were quite okay.
 
-**Thoughts** 
+**Thoughts**
 Enjoyed learning the using the approach, array methods + higher order functions & currying
+
+### Day 27: May 27, Wednesday
+
+**Today's Progress** Started and Intermediate Algorithm scripting challenges. quite challenging.
+
+**Thoughts** Quite challenging tackling the quizes. however in my opinion I think am starting to improve on my problem solving skills. am loving the feeling
