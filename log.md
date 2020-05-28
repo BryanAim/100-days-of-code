@@ -235,6 +235,12 @@ Enjoyed learning the using the approach, array methods + higher order functions 
 
 ### Day 27: May 27, Wednesday
 
-**Today's Progress** Started and Intermediate Algorithm scripting challenges. quite challenging.
+**Today's Progress** Started on Intermediate Algorithm scripting challenges. quite challenging.
 
 **Thoughts** Quite challenging tackling the quizes. however in my opinion I think am starting to improve on my problem solving skills. am loving the feeling
+
+### Day 28: May 28, Thursday
+
+**Today's Progress** Continuing the Intermediate Algorithm scripting challenges.
+
+**Thoughts** Practice pracrice practice
