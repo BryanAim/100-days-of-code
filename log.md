@@ -244,3 +244,9 @@ Enjoyed learning the using the approach, array methods + higher order functions 
 **Today's Progress** Continuing the Intermediate Algorithm scripting challenges.
 
 **Thoughts** Practice pracrice practice
+
+### Day 29: May 29, Friday
+
+**Today's Progress** Continuing the Intermediate Algorithm scripting challenges. didnt make much progress though.
+
+**Thoughts** They seem hard😪 Aint getting even the questions. Is development even for me?
