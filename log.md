@@ -250,3 +250,12 @@ Enjoyed learning the using the approach, array methods + higher order functions 
 **Today's Progress** Continuing the Intermediate Algorithm scripting challenges. didnt make much progress though.
 
 **Thoughts** They seem hard😪 Aint getting even the questions. Is development even for me?
+
+### Day 30: May 30, Saturday
+
+**Today's Progress** Continuing the Intermediate Algorithm scripting challenges. didnt make much progress though. But atleast i wasnt feeling as crappy as yesterday
+
+**Thoughts** Just keep pushing Aim, it'll eventually pay off. This comment got me motivated👇🏿
+
+@sunilsandhu'
+Good luck with the progress and keep pushing. I was in your shoes a few years ago - it will pay off in the long run, so keep building up all those little victories!'
