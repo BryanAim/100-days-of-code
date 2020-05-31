@@ -259,3 +259,9 @@ Enjoyed learning the using the approach, array methods + higher order functions 
 
 @sunilsandhu'
 Good luck with the progress and keep pushing. I was in your shoes a few years ago - it will pay off in the long run, so keep building up all those little victories!'
+
+### Day 31: May 31, Sunday
+
+**Today's Progress** Completed the Intermediate Algorithm scripting challenges. Used a lot of help.
+
+**Thoughts** Cant believe its been a month already. Hope i keep this up and dont quit as they get hard.
