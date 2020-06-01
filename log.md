@@ -265,3 +265,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Completed the Intermediate Algorithm scripting challenges. Used a lot of help.
 
 **Thoughts** Cant believe its been a month already. Hope i keep this up and dont quit as they get hard.
+
+### Day 32: June 1, Monday
+
+**Today's Progress** Started on the JS Algorithm Projects challenges. did palindrome checker.
+
+**Thoughts** Regex needs to be mastered
