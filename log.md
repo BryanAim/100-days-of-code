@@ -271,3 +271,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Started on the JS Algorithm Projects challenges. did palindrome checker.
 
 **Thoughts** Regex needs to be mastered
+
+### Day 33: June 2, Tuesday
+
+**Today's Progress** Continuing on the JS Algorithm Projects challenges. did telephone validator and roman numeral converter.
+
+**Thoughts** Again! Regex needs to be mastered!
