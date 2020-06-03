@@ -243,17 +243,17 @@ Enjoyed learning the using the approach, array methods + higher order functions 
 
 **Today's Progress** Continuing the Intermediate Algorithm scripting challenges.
 
-**Thoughts** Practice pracrice practice
+**Thoughts** Practice practice practice
 
 ### Day 29: May 29, Friday
 
-**Today's Progress** Continuing the Intermediate Algorithm scripting challenges. didnt make much progress though.
+**Today's Progress** Continuing the Intermediate Algorithm scripting challenges. didn't make much progress though.
 
-**Thoughts** They seem hard😪 Aint getting even the questions. Is development even for me?
+**Thoughts** They seem hard😪 Ain't getting even the questions. Is development even for me?
 
 ### Day 30: May 30, Saturday
 
-**Today's Progress** Continuing the Intermediate Algorithm scripting challenges. didnt make much progress though. But atleast i wasnt feeling as crappy as yesterday
+**Today's Progress** Continuing the Intermediate Algorithm scripting challenges. didn't make much progress though. But at least I wasn't feeling as crappy as yesterday
 
 **Thoughts** Just keep pushing Aim, it'll eventually pay off. This comment got me motivated👇🏿
 
@@ -264,7 +264,7 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 
 **Today's Progress** Completed the Intermediate Algorithm scripting challenges. Used a lot of help.
 
-**Thoughts** Cant believe its been a month already. Hope i keep this up and dont quit as they get hard.
+**Thoughts** Cant believe its been a month already. Hope I keep this up and don't quit as they get hard.
 
 ### Day 32: June 1, Monday
 
@@ -277,3 +277,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Continuing on the JS Algorithm Projects challenges. did telephone validator and roman numeral converter.
 
 **Thoughts** Again! Regex needs to be mastered!
+
+### Day 34: June 3, Wednesday
+
+**Today's Progress** Completed the JS Algorithm Projects challenges. did Caesars cipher and cashRegister(really hard) challenges.
+
+**Thoughts** Feels great. though there's a lot of recap and practice that I need to do.
