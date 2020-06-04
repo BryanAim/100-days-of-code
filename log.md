@@ -283,3 +283,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Completed the JS Algorithm Projects challenges. did Caesars cipher and cashRegister(really hard) challenges.
 
 **Thoughts** Feels great. though there's a lot of recap and practice that I need to do.
+
+### Day 35: June 4, Thursday
+
+**Today's Progress** Started on APIs and Microservices Certification and completed the managing packages with npm
+
+**Thoughts** Basic stuff
