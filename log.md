@@ -289,3 +289,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Started on APIs and Microservices Certification and completed the managing packages with npm
 
 **Thoughts** Basic stuff
+
+### Day 35: June 5, Friday
+
+**Today's Progress** Still on the APIs and Microservices Certification. started and completed the Basic Node and Express.
+
+**Thoughts** I love express for some reason.
