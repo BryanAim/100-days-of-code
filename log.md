@@ -290,8 +290,14 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 
 **Thoughts** Basic stuff
 
-### Day 35: June 5, Friday
+### Day 36: June 5, Friday
 
 **Today's Progress** Still on the APIs and Microservices Certification. started and completed the Basic Node and Express.
 
 **Thoughts** I love express for some reason.
+
+### Day 37: June 6, Saturday
+
+**Today's Progress** Started on MongoDB and Mongoose section. spent a lot of time trynna configure(so that the tests pass)
+
+**Thoughts** MongoDB has been my current favorite DB system so....Yeah!
