@@ -301,3 +301,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Started on MongoDB and Mongoose section. spent a lot of time trynna configure(so that the tests pass)
 
 **Thoughts** MongoDB has been my current favorite DB system so....Yeah!
+
+### Day 38: June 7, Sunday
+
+**Today's Progress** Finished MongoDB and Mongoose section. Wasnt so bad.
+
+**Thoughts** Always use the documentation
