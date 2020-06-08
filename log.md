@@ -307,3 +307,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Finished MongoDB and Mongoose section. Wasnt so bad.
 
 **Thoughts** Always use the documentation
+
+### Day 39: June 8, Monday
+
+**Today's Progress** started on  APIs and Microservices projects, completed the Timestamp Microservice challenge.
+
+**Thoughts** Learnt about the Date object in JS.
