@@ -313,3 +313,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** started on  APIs and Microservices projects, completed the Timestamp Microservice challenge.
 
 **Thoughts** Learnt about the Date object in JS.
+
+### Day 40: June 9, Tuesday
+
+**Today's Progress** completed the Request Header Parser Project of APIs and Microservices projects.
+
+**Thoughts** This was pretty easy
