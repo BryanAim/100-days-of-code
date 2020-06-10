@@ -319,3 +319,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** completed the Request Header Parser Project of APIs and Microservices projects.
 
 **Thoughts** This was pretty easy
+
+### Day 41: June 10, Wednesday
+
+**Today's Progress** completed the URL shortener Project of APIs and Microservices projects.
+
+**Thoughts** Was really challenging. I should practice more on creating and saving on mongoDB
