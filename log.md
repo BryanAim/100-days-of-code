@@ -325,3 +325,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** completed the URL shortener Project of APIs and Microservices projects.
 
 **Thoughts** Was really challenging. I should practice more on creating and saving on mongoDB
+
+### Day 42: June 11, Thursday
+
+**Today's Progress** Started on the Exercise tracker challenge
+
+**Thoughts** Really challenging. not yet completed though
