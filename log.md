@@ -331,3 +331,9 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Started on the Exercise tracker challenge
 
 **Thoughts** Really challenging. not yet completed though
+
+### Day 43: June 12, Friday
+
+**Today's Progress** Finishes the Exercise tracker challenge using the internets help
+
+**Thoughts** Really challenging. havent mastered all the concepts yet
