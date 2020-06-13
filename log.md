@@ -336,4 +336,11 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 
 **Today's Progress** Finishes the Exercise tracker challenge using the internets help
 
-**Thoughts** Really challenging. havent mastered all the concepts yet
+**Thoughts** Really challenging. haven't mastered all the concepts yet
+
+
+### Day 44: June 13, Saturday
+
+**Today's Progress** Finished the last challenge on APIs and Microservices section, the File Metadata microservice.
+
+**Thoughts** This was quite easy, however my progress is not being recorded
