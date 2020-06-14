@@ -344,3 +344,11 @@ Good luck with the progress and keep pushing. I was in your shoes a few years ag
 **Today's Progress** Finished the last challenge on APIs and Microservices section, the File Metadata microservice.
 
 **Thoughts** This was quite easy, however my progress is not being recorded
+
+### Day 45: June 14, Sunday
+
+**Today's Progress**
+Started on the Information Security and Quality Assurance Certification (300 hours)
+Finished the Introduction to Information Security with HelmetJS Challenges
+
+**Thoughts** Was okay, loved learning what HelmetJS and BCrypt are used for.
