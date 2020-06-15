@@ -352,3 +352,10 @@ Started on the Information Security and Quality Assurance Certification (300 hou
 Finished the Introduction to Information Security with HelmetJS Challenges
 
 **Thoughts** Was okay, loved learning what HelmetJS and BCrypt are used for.
+
+### Day 46: June 15, Monday
+
+**Today's Progress**
+Started and Finished the 𝙌𝙪𝙖𝙡𝙞𝙩𝙮 𝘼𝙨𝙨𝙪𝙧𝙖𝙣𝙘𝙚 𝙖𝙣𝙙 𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 𝘾𝙝𝙖𝙞 Challenges
+
+**Thoughts** First time learning testing. wasnt bad
