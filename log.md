@@ -358,4 +358,11 @@ Finished the Introduction to Information Security with HelmetJS Challenges
 **Today's Progress**
 Started and Finished the 𝙌𝙪𝙖𝙡𝙞𝙩𝙮 𝘼𝙨𝙨𝙪𝙧𝙖𝙣𝙘𝙚 𝙖𝙣𝙙 𝙏𝙚𝙨𝙩𝙞𝙣𝙜 𝙬𝙞𝙩𝙝 𝘾𝙝𝙖𝙞 Challenges
 
-**Thoughts** First time learning testing. wasnt bad
+**Thoughts** First time learning testing. wasn't bad
+
+### Day 47: June 16, Tuesday
+
+**Today's Progress**
+Started on the Advanced Node & Express Challenges.
+
+**Thoughts** First time learning PassportJs, Pug and express-session. its great!
