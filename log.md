@@ -366,3 +366,11 @@ Started and Finished the 𝙌𝙪𝙖𝙡𝙞𝙩𝙮 𝘼𝙨𝙨𝙪𝙧𝙖�
 Started on the Advanced Node & Express Challenges.
 
 **Thoughts** First time learning PassportJs, Pug and express-session. its great!
+
+### Day 48: June 17, Wednesday
+
+**Today's Progress**
+Still on the Advanced Node & Express Challenges.
+
+
+**Thoughts** Having registration and logging in bugs that cant get the tests pass
