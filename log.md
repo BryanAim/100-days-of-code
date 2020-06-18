@@ -374,3 +374,11 @@ Still on the Advanced Node & Express Challenges.
 
 
 **Thoughts** Having registration and logging in bugs that cant get the tests pass
+
+### Day 49: June 18, Thursday
+
+**Today's Progress**
+Still on the Advanced Node & Express Challenges. made some progress while trynna debug yesterdays bugs but nothing.
+
+
+**Thoughts** Having registration and logging in bugs that cant get the tests pass again. However i'm done with the first half.
