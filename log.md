@@ -382,3 +382,12 @@ Still on the Advanced Node & Express Challenges. made some progress while trynna
 
 
 **Thoughts** Having registration and logging in bugs that cant get the tests pass again. However i'm done with the first half.
+
+### Day 50: June 18, Friday
+
+**Today's Progress**
+Wait, its Day50 already??
+Still on the Advanced Node & Express Challenges. Learnt implementing social authentication with passport-github
+
+
+**Thoughts** Moving slow on the challenges, though lots of information to take in.
