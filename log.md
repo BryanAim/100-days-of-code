@@ -391,3 +391,11 @@ Still on the Advanced Node & Express Challenges. Learnt implementing social auth
 
 
 **Thoughts** Moving slow on the challenges, though lots of information to take in.
+
+### Day 51: June 18, Saturday
+
+**Today's Progress**
+Finally through with the Advanced Node & Express Challenges! Socket.io seems pretty awesome!
+
+
+**Thoughts** Quite challenging setting up for the socketIO
