@@ -407,3 +407,16 @@ Started on the Information Security and Quality Assurance Projects.  finished th
 
 
 **Thoughts** Was challenging getting through the instructions but i still managed
+
+### Day 53: June 22, Monday
+
+**Today's Progress**
+Started on the 𝙄𝙨𝙨𝙪𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 Project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
+
+
+**Thoughts** Found it quite overwhelming getting it off the ground. MongoDB should be revised
+
+
+
+
+ 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
