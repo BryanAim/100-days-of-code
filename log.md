@@ -360,6 +360,7 @@ Started and Finished the 𝙌𝙪𝙖𝙡𝙞𝙩𝙮 𝘼𝙨𝙨𝙪𝙧𝙖�
 
 **Thoughts** First time learning testing. wasn't bad
 
+
 ### Day 47: June 16, Tuesday
 
 **Today's Progress**
@@ -373,7 +374,8 @@ Started on the Advanced Node & Express Challenges.
 Still on the Advanced Node & Express Challenges.
 
 
-**Thoughts** Having registration and logging in bugs that cant get the tests pass
+**Thoughts** Having registration and logging in bugs that cant get the tests pass.
+
 
 ### Day 49: June 18, Thursday
 
@@ -383,28 +385,28 @@ Still on the Advanced Node & Express Challenges. made some progress while trynna
 
 **Thoughts** Having registration and logging in bugs that cant get the tests pass again. However i'm done with the first half.
 
+
 ### Day 50: June 18, Friday
 
 **Today's Progress**
 Wait, its Day50 already??
 Still on the Advanced Node & Express Challenges. Learnt implementing social authentication with passport-github
 
-
 **Thoughts** Moving slow on the challenges, though lots of information to take in.
+
 
 ### Day 51: June 20, Saturday
 
 **Today's Progress**
 Finally through with the Advanced Node & Express Challenges! Socket.io seems pretty awesome!
 
-
 **Thoughts** Quite challenging setting up for the socketIO
+
 
 ### Day 52: June 21, Sunday
 
 **Today's Progress**
 Started on the Information Security and Quality Assurance Projects.  finished the first metric converter.
-
 
 **Thoughts** Was challenging getting through the instructions but i still managed
 
@@ -416,7 +418,10 @@ Started on the 𝙄𝙨𝙨𝙪𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 Project of 𝗜
 
 **Thoughts** Found it quite overwhelming getting it off the ground. MongoDB should be revised
 
+### Day 54: June 23, Tuesday
+
+**Today's Progress**
+Completed the 𝙄𝙨𝙨𝙪𝙚 𝙏𝙧𝙖𝙘𝙠𝙚𝙧 Project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
 
 
-
- 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+**Thoughts** Starting to get a grip on testing
