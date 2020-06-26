@@ -434,10 +434,18 @@ Started the Personal library Project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼
 
 **Thoughts** Had issues starting up, why mongoDB???? but got it off the ground however
 
-### Day 55: June 24, Wednesday
+### Day 56: June 25, Thursday
 
 **Today's Progress**
 Done with the the Personal library Project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
 
 
 **Thoughts** mongoDB needs more practice!
+
+### Day 57: June 26, Friday
+
+**Today's Progress**
+Started on the Stock-price checker project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
+
+
+**Thoughts** starting was a huge challenge, especially understanding the instructions.
