@@ -449,3 +449,11 @@ Started on the Stock-price checker project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁�
 
 
 **Thoughts** starting was a huge challenge, especially understanding the instructions.
+
+### Day 58: June 27, Saturday
+
+**Today's Progress**
+Done with the Stock-price checker project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
+
+
+**Thoughts** wrote functional tests
