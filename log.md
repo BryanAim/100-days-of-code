@@ -457,3 +457,18 @@ Done with the Stock-price checker project of 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁�
 
 
 **Thoughts** wrote functional tests
+
+### Day 59: June 28, Sunday
+
+**Today's Progress**
+Started the Anonymous Message Board Project of  𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
+
+
+**Thoughts** This was quite challenging
+
+### Day 60: June 29, Monday
+
+**Today's Progress**
+Completed the Anonymous Message Board Project of  𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
+
+**Thoughts** i have to redo this.
