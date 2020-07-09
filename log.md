@@ -472,3 +472,24 @@ Started the Anonymous Message Board Project of  𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁
 Completed the Anonymous Message Board Project of  𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗮𝗻𝗱 𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗔𝘀𝘀𝘂𝗿𝗮𝗻𝗰𝗲 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
 
 **Thoughts** i have to redo this.
+
+###Days 61-70 June 30, Tuesday - July 9, Thursday
+
+**Progress**
+Built a fullstack app from MDNs express tutorial.
+
+**Thoughts**
+Been an extensive learning session
+
+I learnt:
+- setting up a Node(express) dev environment
+- creating a skeleton website using express app generator
+- using #mongoDB database with mongoose create object schemas and models
+- handling routes and using controller functions
+- creating & passing data to views using the Pug templating engine
+- working with forms in Express using pug
+- form validation & sanitization using express-validator
+- managing flow control using async library
+- date handling using #momentJs
+- deploying to 
+@heroku
