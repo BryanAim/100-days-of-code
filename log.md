@@ -491,5 +491,13 @@ I learnt:
 - form validation & sanitization using express-validator
 - managing flow control using async library
 - date handling using #momentJs
-- deploying to 
+- deploying to
 @heroku
+
+### Day 71, July 10, Friday
+
+**Progress**
+Started learning the 30days of vue ebook by Hassan Djirdeh .
+
+**Thoughts**
+Feels exciting, learnt about the vue instance, instantiasting and mounting it to the DOM.
