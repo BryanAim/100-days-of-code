@@ -501,3 +501,8 @@ Started learning the 30days of vue ebook by Hassan Djirdeh .
 
 **Thoughts**
 Feels exciting, learnt about the vue instance, instantiasting and mounting it to the DOM.
+
+###Day 72, July 11, Saturday
+
+**Progress**
+learnt about the data property of the vue instance and how it provides reactivity for the app
