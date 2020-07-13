@@ -506,3 +506,16 @@ Feels exciting, learnt about the vue instance, instantiasting and mounting it to
 
 **Progress**
 learnt about the data property of the vue instance and how it provides reactivity for the app
+
+
+###Day 73, July 12, Sunday
+
+**Progress**
+Today's main takeaway is that the main difference between using #VueJS & vanilla #JavaScript is that in the JS approach, the DOM is treated as the single source of truth, while in Vue apps the source of truth is the data property of a Vue instance. 
+
+
+### Day 74, July 13, Monday
+
+**Progress**
+
+dived into #VueJs directives and learnt about the event handling with v-on, attribute binding with v-bind , and conditional rendering with v-show and v-if directives.
