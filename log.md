@@ -524,9 +524,20 @@ dived into #VueJs directives and learnt about the event handling with v-on, attr
 
 **Progress**
 
- I've learnt about list rendering in #VueJs using the v-for directive and why the Key attribute is recommended. 
+ I've learnt about list rendering in #VueJs using the v-for directive and why the Key attribute is recommended.
 
 ### Day 76, July 15, Wednesday
 
 **Progress**
 learnt about form handling in #VueJs using the v-model directive, that creates a two-way data binding between form inputs and text area elements.  
+
+### Day 77, July 16, Thursday
+
+**Progress**
+Learnt using the Vue Devtools to debug JavaScript applications
+
+
+###Day 78, July 17, Friday
+
+**Progress**
+learnt about Methods & Computed properties, their differences and when to use one over the other.
