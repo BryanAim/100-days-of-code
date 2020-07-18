@@ -541,3 +541,9 @@ Learnt using the Vue Devtools to debug JavaScript applications
 
 **Progress**
 learnt about Methods & Computed properties, their differences and when to use one over the other.
+
+
+###Day 79, July 18, Saturday
+
+**Progress**
+Learnt About #VueJs watchers, when to use them(mostly when you want to perform asynchronous or expensive operations to changing data) and when to use computed properties instead.
