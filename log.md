@@ -547,3 +547,9 @@ learnt about Methods & Computed properties, their differences and when to use on
 
 **Progress**
 Learnt About #VueJs watchers, when to use them(mostly when you want to perform asynchronous or expensive operations to changing data) and when to use computed properties instead.
+
+
+###Day 80, July 19, Sunday
+
+**Progress**
+learnt about #VueJS Lifecycle hooks, 𝚌𝚛𝚎𝚊𝚝𝚎𝚍(), 𝚖𝚘𝚞𝚗𝚝𝚎𝚍(), 𝚞𝚙𝚍𝚊𝚝𝚎𝚍(), and 𝚍𝚎𝚜𝚝𝚛𝚘𝚢𝚎𝚍().
