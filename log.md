@@ -553,3 +553,10 @@ Learnt About #VueJs watchers, when to use them(mostly when you want to perform a
 
 **Progress**
 learnt about #VueJS Lifecycle hooks, 𝚌𝚛𝚎𝚊𝚝𝚎𝚍(), 𝚖𝚘𝚞𝚗𝚝𝚎𝚍(), 𝚞𝚙𝚍𝚊𝚝𝚎𝚍(), and 𝚍𝚎𝚜𝚝𝚛𝚘𝚢𝚎𝚍().
+
+###Day 81, July 20, Monday
+
+**Progress**
+I dived into learning about global components in #VueJS.
+ Takeaway: Vue components are reusable Vue instances with a name
+ 
