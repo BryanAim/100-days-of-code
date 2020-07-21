@@ -559,4 +559,9 @@ learnt about #VueJS Lifecycle hooks, 𝚌𝚛𝚎𝚊𝚝𝚎𝚍(), 𝚖𝚘�
 **Progress**
 I dived into learning about global components in #VueJS.
  Takeaway: Vue components are reusable Vue instances with a name
- 
+
+
+###Day 82, July 21, Tuesday
+
+**Progress**
+learnt about passing data from parent components to child components with the help of #VueJS props.
