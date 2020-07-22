@@ -565,3 +565,8 @@ I dived into learning about global components in #VueJS.
 
 **Progress**
 learnt about passing data from parent components to child components with the help of #VueJS props.
+
+###Day 83, July 22, Wednesday
+
+**Progress**
+learnt how to pass data from child components up to the parent component using #VueJS Custom events.
