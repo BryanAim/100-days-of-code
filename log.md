@@ -570,3 +570,9 @@ learnt about passing data from parent components to child components with the he
 
 **Progress**
 learnt how to pass data from child components up to the parent component using #VueJS Custom events.
+
+
+###Day 84, July 23, Thursday
+
+**Progress**
+learnt about the differences between Global and Local #VueJS component registration, why the data property of a component should always be a function and that its a must to wrap the template of components in a single root element.
