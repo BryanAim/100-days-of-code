@@ -576,3 +576,9 @@ learnt how to pass data from child components up to the parent component using #
 
 **Progress**
 learnt about the differences between Global and Local #VueJS component registration, why the data property of a component should always be a function and that its a must to wrap the template of components in a single root element.
+
+###Day 85, July 24, Friday
+
+**Progress**
+
+I've learnt the different ways of declaring the template/markup of a #VueJS component, and why using template strings is the most viable option.
