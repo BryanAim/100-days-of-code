@@ -582,3 +582,9 @@ learnt about the differences between Global and Local #VueJS component registrat
 **Progress**
 
 I've learnt the different ways of declaring the template/markup of a #VueJS component, and why using template strings is the most viable option.
+
+
+###Day 86, July 25, Saturday
+
+**Progress**
+Saw how to use a render function in #VueJS to create the markup of a component entirely with #JavaScript.
