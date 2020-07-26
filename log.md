@@ -588,3 +588,8 @@ I've learnt the different ways of declaring the template/markup of a #VueJS comp
 
 **Progress**
 Saw how to use a render function in #VueJS to create the markup of a component entirely with #JavaScript.
+
+###Day 87, July 26, Sunday
+
+**Progress**
+Took a look at one of the most useful features in helping build large scale vue applications - 𝗦𝗶𝗻𝗴𝗹𝗲 𝗙𝗶𝗹𝗲 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, how they're structured, and their advantages.
