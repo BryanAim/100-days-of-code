@@ -593,3 +593,9 @@ Saw how to use a render function in #VueJS to create the markup of a component e
 
 **Progress**
 Took a look at one of the most useful features in helping build large scale vue applications - 𝗦𝗶𝗻𝗴𝗹𝗲 𝗙𝗶𝗹𝗲 𝗖𝗼𝗺𝗽𝗼𝗻𝗲𝗻𝘁𝘀, how they're structured, and their advantages.
+
+
+###Day 88, July 27, Monday
+
+**Progress**
+Looked at the Vue's official developmet tool in helping build and scaffold Webpack bundled #VueJS applications rapidly, the 𝘃𝘂𝗲-𝗰𝗹𝗶.
