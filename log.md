@@ -599,3 +599,9 @@ Took a look at one of the most useful features in helping build large scale vue 
 
 **Progress**
 Looked at the Vue's official developmet tool in helping build and scaffold Webpack bundled #VueJS applications rapidly, the 𝘃𝘂𝗲-𝗰𝗹𝗶.
+
+
+###Day 89, July 28, Tuesday
+
+**Progress**
+Learnt about using the EventBus to make communication between sibling components possible in #VueJS. Also saw its disadvantages and why its not the most preferred method of approach.
