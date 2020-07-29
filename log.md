@@ -605,3 +605,9 @@ Looked at the Vue's official developmet tool in helping build and scaffold Webpa
 
 **Progress**
 Learnt about using the EventBus to make communication between sibling components possible in #VueJS. Also saw its disadvantages and why its not the most preferred method of approach.
+
+
+###Day 90, July 29, Wednesday
+
+**Progress**
+Learnt about State management in #VueJS and saw how to implement a simple Global store that manages application wide data within an application.
