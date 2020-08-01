@@ -613,7 +613,13 @@ Learnt about using the EventBus to make communication between sibling components
 Learnt about State management in #VueJS and saw how to implement a simple Global store that manages application wide data within an application.
 
 
-###Day 91, July 30, Thursday
+###Days 91 92, July 30-31, Thursday-Friday
 
 **Progress**
 finally dived into managing #VueJS application state using the most robust and widely used flux-like state management library in Vue, Vuex. Learnt about mutations, actions, and getters.
+
+
+###Days 93,94. August 1, Saturday????
+
+**Progress**
+Got introduced to Routing(i.e client-side routing) and specifically learnt about Vue Router to enable routing in an application.
