@@ -623,3 +623,10 @@ finally dived into managing #VueJS application state using the most robust and w
 
 **Progress**
 Got introduced to Routing(i.e client-side routing) and specifically learnt about Vue Router to enable routing in an application.
+
+
+#Days 95-98 ,August 5
+
+**Progress**
+
+got introduced to testing and the type of tests & their importance. Learnt unit testing using the Jest testing framework. Finally I learnt about & how to use #VueJS's official testing library Vue Test utils.
