@@ -630,3 +630,10 @@ Got introduced to Routing(i.e client-side routing) and specifically learnt about
 **Progress**
 
 got introduced to testing and the type of tests & their importance. Learnt unit testing using the Jest testing framework. Finally I learnt about & how to use #VueJS's official testing library Vue Test utils.
+
+
+###Days 99-100, August 7
+
+**Progress**
+ wrapped up by learning the tips and tricks, and future of #VueJs.
+My important takeaway has been acquiring coding discipline, I can now be able to turn on the computer and just code without procrastination.
